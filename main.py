@@ -57,7 +57,7 @@ FACEBOOK_HASHTAGS = """
 .
 .
 .
-"#facebookreels #fb #reelsvideo #viralreels #fbreels"
+"#facebookreels #fb #reelsvideo #viralreels #viral-video #trending-now #facebook-reels #reels-viral #must-watch #share-this #explore-page #for-you #social-media-growth #digital-marketing #content-creator #video-marketing #online-earning #internet-famous #watch-till-end #like-and-share #tag-a-friend #daily-content #short-video #brand-building #seo-boost #fbreels"
 """
 
 # --- HELPER FUNCTIONS ---
