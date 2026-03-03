@@ -160,7 +160,7 @@ FACEBOOK_HASHTAGS = """
 .
 .
 .
-"#facebookreels #fb #reelsvideo #viralreels #viral-video #trending-now #facebook-reels #reels-viral #must-watch #share-this #explore-page #for-you #social-media-growth #digital-marketing #content-creator #video-marketing #online-earning #internet-famous #watch-till-end #like-and-share #tag-a-friend #daily-content #short-video #brand-building #seo-boost #fbreels"
+"#facebookreels #fb #reelsvideo #viralreels #ViralVideo #TrendingNow #MovieClips #HollywoodScenes #CinemaLovers #FilmCommunity #ReelsViral #FacebookReels #MustWatch #PlotTwist #IconicScene #MovieMoments #Blockbuster #ActingMasterclass #WatchTillEnd #ExplorePage #ForYou #EntertainmentDaily #USA #FilmFans #ShortMovieClips #fbreels"
 """
 
 # --- HELPER FUNCTIONS ---
